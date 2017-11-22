@@ -1,8 +1,5 @@
 [
   {
-    "module":"dirlister"
-  },
-  {
     "module":"environment"
   }
 ]
